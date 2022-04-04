@@ -1,6 +1,6 @@
 # True-Analytics
 
-Web service (SaaS) for deep analysis of Internet (Google, Facebook, Instagram) and offline advertising, conversion
+Web service (SaaS) for deep analysis of online (Google, Facebook, Instagram) and offline advertising, conversion
 and ROI calculation, convenient presentation in the form of graphs and tables (now suspended)
 
 **Main technology stack:**
