@@ -1,5 +1,7 @@
 # True-Analytics
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/56f4bec908f847e0a7d7083a9c34932f)](https://www.codacy.com/gh/valerii-martell/True-Analytics/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=valerii-martell/True-Analytics&amp;utm_campaign=Badge_Grade)
+
 Web service (SaaS) for deep analysis of online (Google, Facebook, Instagram) and offline advertising, conversion
 and ROI calculation, convenient presentation in the form of graphs and tables (now suspended)
 
